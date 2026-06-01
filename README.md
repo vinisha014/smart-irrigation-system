@@ -196,4 +196,4 @@ This project is licensed under the MIT License.
 
 ## ⭐ Conclusion
 
-The Smart Irrigation System using Machine Learning provides an efficient and sustainable solution for modern farming by combining IoT devices with intelligent prediction models to automate irrigation and optimize water usage.
+The Smart Irrigation System, utilizing machine learning, offers an efficient and sustainable solution for modern farming by integrating IoT devices with intelligent prediction models to automate irrigation and optimize water usage.
